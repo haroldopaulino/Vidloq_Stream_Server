@@ -153,6 +153,9 @@ The script will:
 - Start Uvicorn through `python -m uvicorn` to avoid stale script shebang issues.
 - Restart the server every hour.
 
+## Main Website Screenshot
+<img style="border: 5px solid black;" width="1786" height="1086" alt="Vidloq_Stream_Server_homepage" src="https://github.com/user-attachments/assets/c428f80f-2eec-4c26-9535-1c9eb19366db" />
+
 ## Main URLs
 
 | URL | Purpose | Data required |
