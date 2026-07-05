@@ -1,10 +1,10 @@
 # Vidloq Stream Server
 
-![Vidloq Stream Server architecture](docs/images/vidloq_stream_server_architecture_overview.png)
-
 Vidloq Stream Server is the central Python backend for the Vidloq system. It receives video frames from **Vidloq_Video**, receives continuous microphone audio from **Vidloq_Audio**, exposes live debug endpoints, and provides browser-friendly diagnostics for validating the full audio/video pipeline.
 
 The project is designed for local development, lab testing, GitHub portfolio presentation, and embedded streaming experiments using ESP32-class RTOS devices.
+
+<img width="1672" height="941" alt="Vidloq_Stream_Server" src="https://github.com/user-attachments/assets/868695d3-2427-43d8-914c-f215dc87784d" />
 
 ## What this server does
 
